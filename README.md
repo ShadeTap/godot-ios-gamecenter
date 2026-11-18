@@ -1,5 +1,7 @@
 # GameCenterKit for Godot
 
+ShadeTap fork: see [SHADETAP.md](SHADETAP.md).
+
 A focused, signal-driven Game Center bridge for Godot 4.5-4.7 on iOS 14+.
 Prebuilt device and simulator binaries install as a regular `addons/gamecenter`
 plug-in, with macOS 11+ editor binaries for development.
